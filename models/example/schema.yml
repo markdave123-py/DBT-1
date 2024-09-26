@@ -1,4 +1,3 @@
-
 version: 2
 
 models:
@@ -6,7 +5,7 @@ models:
     description: "A starter dbt model"
     columns:
       - name: id
-        description: "The primary key for this table"
+        description: "The primary key for this seed"
         data_tests:
           - unique
           - not_null
@@ -15,7 +14,99 @@ models:
     description: "A starter dbt model"
     columns:
       - name: id
-        description: "The primary key for this table"
+        description: "The primary key for this seed"
         data_tests:
           - unique
           - not_null
+
+  - name: fct_sales
+    description: "This table aggregates sales data by product and date."
+    columns:
+      - name: transaction_id
+        description: "The unique identifier for each transaction."
+        tests:
+          - unique
+          - not_null
+
+      - name: date_key
+        description: "Foreign key to the date dimension table."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_key
+
+      - name: total_sales
+        description: "The total amount of sales."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "total_sales >= 0"
+              error_if: "FAIL"
+              severity: "ERROR"
+
+seeds:
+  - name: branch_dimension
+    config:
+      materialized: seed
+      column_types:
+        BranchID: integer
+        BranchLocation: varchar
+        ManagerName: varchar
+        BranchType: varchar
+
+  - name: customer_dimension
+    config:
+      materialized: seed
+      column_types:
+        CustomerID: integer
+        CustomerName: varchar
+        Email: varchar
+        PhoneNumber: varchar
+        Location: varchar
+        LoyaltyProgram: boolean
+        CustomerType: varchar
+
+  - name: date_dimension
+    config:
+      materialized: seed
+      column_types:
+        DateKey: integer
+        FullDate: date
+        Day: integer
+        Month: integer
+        Quarter: integer
+        Year: integer
+
+  - name: payment_method_dimension
+    config:
+      materialized: seed
+      column_types:
+        PaymentMethodID: integer
+        PaymentMethodType: varchar
+        Processor: varchar
+
+  - name: product_dimension
+    config:
+      materialized: seed
+      column_types:
+        ProductID: integer
+        ProductName: varchar
+        ProductCategory: varchar
+        Price: numeric
+
+  - name: sales_fact
+    config:
+      materialized: seed
+      column_types:
+        TransactionID: integer
+        DateKey: integer
+        CustomerID: integer
+        BranchID: integer
+        ProductID: integer
+        PaymentMethodID: integer
+        OrderType: varchar
+        Quantity: integer
+        TotalAmount: numeric
+        DiscountAmount: numeric
+        Revenue: numeric

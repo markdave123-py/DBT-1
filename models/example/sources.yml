@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: dbt_project
+    schema: public
+    tables:
+      - name: branch_dimension
+      - name: customer_dimension
+      - name: date_dimension
+      - name: payment_method_dimension
+      - name: product_dimension
+      - name: sales_fact

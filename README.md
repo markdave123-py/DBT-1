@@ -1,15 +1,36 @@
-Welcome to your new dbt project!
+# DBT Project Name
 
-### Using the starter project
+## Overview
+Briefly describe the purpose of this dbt project, what kind of data it handles, and what the business use cases are.
 
-Try running the following commands:
-- dbt run
-- dbt test
+## Features
+- **Data Models**: Describe the models you are building (e.g., staging, dimensions, facts).
+- **Sources**: List the main data sources the project integrates.
+- **Transformations**: Highlight key transformations and business logic implemented.
+- **Data Tests**: Mention the testing strategies and types of data tests included.
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Prerequisites
+List everything needed to run this project:
+- dbt version (specify a minimum version if necessary)
+- Any other tools or platforms (e.g., PostgreSQL, BigQuery)
+- Required access/permissions
+
+## Installation
+Instructions on how to clone the repository and install any dependencies:
+
+
+
+```bash
+# Clone this repository
+git clone https://github.com/markdave123-py/dbt-project.git
+
+# Navigate into the project directory
+cd dbt-project
+
+# Install dbt packages
+dbt deps
+
+##To view the docs
+
+dbt docs serve
