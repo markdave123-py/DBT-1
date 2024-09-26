@@ -1,0 +1,151 @@
+CustomerID,CustomerName,Email,PhoneNumber,Location,LoyaltyProgram,CustomerType
+1,Customer 1,customer1@example.com,417-374-8593,New York,False,VIP
+2,Customer 2,customer2@example.com,448-181-9175,Chicago,True,Premium
+3,Customer 3,customer3@example.com,686-377-6910,Houston,False,Premium
+4,Customer 4,customer4@example.com,250-499-1459,Los Angeles,False,Regular
+5,Customer 5,customer5@example.com,875-626-5225,Chicago,False,Regular
+6,Customer 6,customer6@example.com,811-199-6428,Houston,False,Premium
+7,Customer 7,customer7@example.com,720-762-1521,Houston,False,VIP
+8,Customer 8,customer8@example.com,100-138-5844,New York,True,Regular
+9,Customer 9,customer9@example.com,793-749-5736,Los Angeles,True,VIP
+10,Customer 10,customer10@example.com,351-674-4943,New York,False,VIP
+11,Customer 11,customer11@example.com,714-127-9601,Chicago,True,Regular
+12,Customer 12,customer12@example.com,286-861-4071,Los Angeles,True,VIP
+13,Customer 13,customer13@example.com,999-526-6072,Miami,True,Regular
+14,Customer 14,customer14@example.com,271-366-4573,Los Angeles,False,Regular
+15,Customer 15,customer15@example.com,829-404-5835,Miami,False,VIP
+16,Customer 16,customer16@example.com,164-988-8060,Miami,False,Premium
+17,Customer 17,customer17@example.com,471-283-4842,Miami,True,VIP
+18,Customer 18,customer18@example.com,888-851-5280,Los Angeles,False,Regular
+19,Customer 19,customer19@example.com,212-159-6146,Chicago,True,Regular
+20,Customer 20,customer20@example.com,275-619-5352,Chicago,False,Premium
+21,Customer 21,customer21@example.com,753-642-3083,Houston,True,VIP
+22,Customer 22,customer22@example.com,931-577-3072,Miami,True,Regular
+23,Customer 23,customer23@example.com,231-806-5208,Chicago,True,VIP
+24,Customer 24,customer24@example.com,724-562-5001,Los Angeles,True,Regular
+25,Customer 25,customer25@example.com,311-401-4103,Miami,True,Premium
+26,Customer 26,customer26@example.com,998-394-9527,Miami,True,Regular
+27,Customer 27,customer27@example.com,936-808-5247,Chicago,False,Regular
+28,Customer 28,customer28@example.com,821-140-7401,Miami,False,VIP
+29,Customer 29,customer29@example.com,133-725-5327,Los Angeles,True,VIP
+30,Customer 30,customer30@example.com,223-733-8523,Los Angeles,True,VIP
+31,Customer 31,customer31@example.com,507-234-4001,Chicago,True,Regular
+32,Customer 32,customer32@example.com,386-493-8242,New York,True,VIP
+33,Customer 33,customer33@example.com,153-278-5108,New York,True,Premium
+34,Customer 34,customer34@example.com,295-341-9994,New York,True,VIP
+35,Customer 35,customer35@example.com,678-703-8833,Houston,True,VIP
+36,Customer 36,customer36@example.com,227-205-7205,New York,True,Regular
+37,Customer 37,customer37@example.com,241-994-9435,Miami,True,Premium
+38,Customer 38,customer38@example.com,922-294-6241,Los Angeles,True,Regular
+39,Customer 39,customer39@example.com,400-790-5933,Miami,False,VIP
+40,Customer 40,customer40@example.com,268-791-2544,Houston,False,VIP
+41,Customer 41,customer41@example.com,563-450-7197,Miami,False,Premium
+42,Customer 42,customer42@example.com,453-761-7353,Miami,False,VIP
+43,Customer 43,customer43@example.com,421-224-6305,Los Angeles,True,VIP
+44,Customer 44,customer44@example.com,393-463-5113,Houston,False,Premium
+45,Customer 45,customer45@example.com,302-602-7331,Miami,False,Premium
+46,Customer 46,customer46@example.com,125-845-6114,New York,True,Premium
+47,Customer 47,customer47@example.com,424-263-6548,Miami,False,Premium
+48,Customer 48,customer48@example.com,505-964-6864,Chicago,False,Premium
+49,Customer 49,customer49@example.com,549-854-2314,Miami,False,Regular
+50,Customer 50,customer50@example.com,927-428-5384,Miami,True,VIP
+51,Customer 51,customer51@example.com,190-381-2494,Los Angeles,False,Regular
+52,Customer 52,customer52@example.com,511-902-9428,Houston,True,Regular
+53,Customer 53,customer53@example.com,521-486-4431,Los Angeles,True,VIP
+54,Customer 54,customer54@example.com,351-884-7564,Chicago,True,Regular
+55,Customer 55,customer55@example.com,502-856-7930,New York,False,Regular
+56,Customer 56,customer56@example.com,351-644-1360,Chicago,True,Premium
+57,Customer 57,customer57@example.com,904-526-1611,Miami,True,Regular
+58,Customer 58,customer58@example.com,244-705-1275,Chicago,True,Regular
+59,Customer 59,customer59@example.com,102-705-6591,Houston,False,VIP
+60,Customer 60,customer60@example.com,782-839-1110,Chicago,False,Premium
+61,Customer 61,customer61@example.com,848-835-4049,Miami,True,VIP
+62,Customer 62,customer62@example.com,885-948-7638,Miami,False,Regular
+63,Customer 63,customer63@example.com,884-838-8950,Chicago,False,Premium
+64,Customer 64,customer64@example.com,233-872-4246,Miami,False,VIP
+65,Customer 65,customer65@example.com,313-705-5209,Houston,True,VIP
+66,Customer 66,customer66@example.com,995-547-4892,Houston,False,VIP
+67,Customer 67,customer67@example.com,211-681-5367,Houston,False,Regular
+68,Customer 68,customer68@example.com,249-356-9531,New York,False,Regular
+69,Customer 69,customer69@example.com,239-631-8225,Miami,True,Premium
+70,Customer 70,customer70@example.com,505-645-8525,Houston,False,Regular
+71,Customer 71,customer71@example.com,832-428-6334,New York,True,Regular
+72,Customer 72,customer72@example.com,990-738-8767,Los Angeles,True,VIP
+73,Customer 73,customer73@example.com,668-135-8035,Miami,True,Regular
+74,Customer 74,customer74@example.com,665-995-2600,New York,True,Premium
+75,Customer 75,customer75@example.com,969-289-5653,Houston,False,Premium
+76,Customer 76,customer76@example.com,240-779-7170,Los Angeles,False,Regular
+77,Customer 77,customer77@example.com,503-325-9909,Chicago,False,Regular
+78,Customer 78,customer78@example.com,661-151-3272,Miami,True,VIP
+79,Customer 79,customer79@example.com,131-544-8968,Miami,True,Regular
+80,Customer 80,customer80@example.com,573-467-5232,Miami,False,Premium
+81,Customer 81,customer81@example.com,115-446-2501,Miami,False,VIP
+82,Customer 82,customer82@example.com,362-702-6218,Los Angeles,False,VIP
+83,Customer 83,customer83@example.com,797-432-1719,Miami,True,Regular
+84,Customer 84,customer84@example.com,949-663-9765,Houston,True,Premium
+85,Customer 85,customer85@example.com,319-708-8166,Miami,False,Regular
+86,Customer 86,customer86@example.com,637-421-4722,Miami,True,Regular
+87,Customer 87,customer87@example.com,423-586-3537,Los Angeles,False,Regular
+88,Customer 88,customer88@example.com,602-339-5997,Miami,False,Premium
+89,Customer 89,customer89@example.com,429-760-1045,New York,True,VIP
+90,Customer 90,customer90@example.com,638-213-1945,Houston,False,VIP
+91,Customer 91,customer91@example.com,182-294-9069,New York,False,Premium
+92,Customer 92,customer92@example.com,187-803-4014,New York,False,VIP
+93,Customer 93,customer93@example.com,181-494-1342,Houston,False,Regular
+94,Customer 94,customer94@example.com,316-392-8874,New York,False,Regular
+95,Customer 95,customer95@example.com,187-732-5468,Houston,True,Regular
+96,Customer 96,customer96@example.com,673-345-2197,Chicago,True,VIP
+97,Customer 97,customer97@example.com,812-972-2152,Los Angeles,False,Premium
+98,Customer 98,customer98@example.com,627-198-7480,Miami,True,Regular
+99,Customer 99,customer99@example.com,892-266-7731,Los Angeles,False,VIP
+100,Customer 100,customer100@example.com,850-247-7190,New York,True,VIP
+101,Customer 101,customer101@example.com,921-316-6281,Chicago,False,Regular
+102,Customer 102,customer102@example.com,506-653-7502,Houston,True,Regular
+103,Customer 103,customer103@example.com,954-113-1293,Miami,True,Regular
+104,Customer 104,customer104@example.com,910-744-2094,Miami,False,VIP
+105,Customer 105,customer105@example.com,997-883-2577,Miami,True,VIP
+106,Customer 106,customer106@example.com,827-114-2091,New York,False,VIP
+107,Customer 107,customer107@example.com,327-232-8106,Los Angeles,True,VIP
+108,Customer 108,customer108@example.com,950-604-4512,New York,True,Premium
+109,Customer 109,customer109@example.com,596-754-4416,Miami,False,Regular
+110,Customer 110,customer110@example.com,730-596-1618,Chicago,False,VIP
+111,Customer 111,customer111@example.com,508-797-2909,Los Angeles,False,Regular
+112,Customer 112,customer112@example.com,713-530-8627,Chicago,True,Regular
+113,Customer 113,customer113@example.com,513-516-8492,Miami,False,VIP
+114,Customer 114,customer114@example.com,854-136-2537,New York,False,VIP
+115,Customer 115,customer115@example.com,838-132-5745,Los Angeles,True,VIP
+116,Customer 116,customer116@example.com,943-449-3975,Houston,True,Premium
+117,Customer 117,customer117@example.com,719-218-9566,Los Angeles,True,VIP
+118,Customer 118,customer118@example.com,126-917-4453,Houston,True,VIP
+119,Customer 119,customer119@example.com,858-117-2725,Los Angeles,False,Premium
+120,Customer 120,customer120@example.com,198-546-6474,New York,True,Regular
+121,Customer 121,customer121@example.com,115-531-9714,Los Angeles,False,Regular
+122,Customer 122,customer122@example.com,533-838-7270,Houston,True,Regular
+123,Customer 123,customer123@example.com,634-686-7884,Houston,True,Regular
+124,Customer 124,customer124@example.com,648-484-5382,New York,False,Regular
+125,Customer 125,customer125@example.com,151-162-5519,Miami,False,VIP
+126,Customer 126,customer126@example.com,512-244-2253,Houston,False,VIP
+127,Customer 127,customer127@example.com,657-287-3634,Miami,True,VIP
+128,Customer 128,customer128@example.com,100-701-7831,Houston,True,Premium
+129,Customer 129,customer129@example.com,248-594-4000,New York,True,VIP
+130,Customer 130,customer130@example.com,686-368-1283,Miami,False,VIP
+131,Customer 131,customer131@example.com,977-464-1417,Houston,True,Premium
+132,Customer 132,customer132@example.com,947-591-8499,Miami,False,Regular
+133,Customer 133,customer133@example.com,206-437-1988,Chicago,False,Premium
+134,Customer 134,customer134@example.com,304-986-3824,Houston,True,Regular
+135,Customer 135,customer135@example.com,527-551-4136,New York,False,Regular
+136,Customer 136,customer136@example.com,376-573-2890,Chicago,False,VIP
+137,Customer 137,customer137@example.com,214-693-1952,Los Angeles,True,Regular
+138,Customer 138,customer138@example.com,507-906-2265,Los Angeles,False,Premium
+139,Customer 139,customer139@example.com,516-199-2293,Chicago,False,VIP
+140,Customer 140,customer140@example.com,770-185-2818,Chicago,True,Premium
+141,Customer 141,customer141@example.com,138-682-8340,Chicago,True,Regular
+142,Customer 142,customer142@example.com,745-314-6617,Chicago,True,Regular
+143,Customer 143,customer143@example.com,371-667-6152,New York,False,Premium
+144,Customer 144,customer144@example.com,176-199-5908,New York,False,VIP
+145,Customer 145,customer145@example.com,463-476-8196,Los Angeles,True,VIP
+146,Customer 146,customer146@example.com,779-227-1693,Los Angeles,True,VIP
+147,Customer 147,customer147@example.com,959-313-9423,Miami,True,VIP
+148,Customer 148,customer148@example.com,445-623-4946,Chicago,False,VIP
+149,Customer 149,customer149@example.com,255-355-8271,Miami,True,Premium
+150,Customer 150,customer150@example.com,275-767-4672,Houston,True,VIP

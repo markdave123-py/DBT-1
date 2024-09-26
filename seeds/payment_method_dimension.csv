@@ -1,0 +1,151 @@
+PaymentMethodID,PaymentMethodType,Processor
+1,Debit Card,Amex
+2,Debit Card,Square
+3,Debit Card,Visa
+4,Debit Card,Visa
+5,Credit Card,Visa
+6,Bank Transfer,Square
+7,Credit Card,Visa
+8,Mobile Payment,Chase
+9,PayPal,Amex
+10,Credit Card,Visa
+11,Debit Card,PayPal
+12,Debit Card,Square
+13,Credit Card,Visa
+14,Credit Card,Amex
+15,PayPal,Square
+16,Debit Card,PayPal
+17,PayPal,Chase
+18,Mobile Payment,Amex
+19,Debit Card,PayPal
+20,PayPal,Square
+21,Bank Transfer,Visa
+22,Credit Card,Amex
+23,Bank Transfer,Chase
+24,Credit Card,Chase
+25,Mobile Payment,Chase
+26,Debit Card,Chase
+27,Debit Card,PayPal
+28,Debit Card,PayPal
+29,Credit Card,Chase
+30,Bank Transfer,MasterCard
+31,Credit Card,PayPal
+32,Credit Card,Visa
+33,Credit Card,Visa
+34,Debit Card,Visa
+35,Bank Transfer,PayPal
+36,Mobile Payment,Amex
+37,PayPal,Amex
+38,PayPal,MasterCard
+39,PayPal,MasterCard
+40,Bank Transfer,PayPal
+41,Mobile Payment,Visa
+42,Credit Card,MasterCard
+43,Bank Transfer,Chase
+44,Bank Transfer,PayPal
+45,Credit Card,Visa
+46,Bank Transfer,Square
+47,PayPal,Square
+48,Credit Card,Square
+49,Credit Card,PayPal
+50,PayPal,Square
+51,Mobile Payment,PayPal
+52,Debit Card,Square
+53,Mobile Payment,PayPal
+54,PayPal,PayPal
+55,Credit Card,Square
+56,PayPal,Chase
+57,Bank Transfer,PayPal
+58,Mobile Payment,Square
+59,Mobile Payment,MasterCard
+60,Bank Transfer,Amex
+61,Mobile Payment,Chase
+62,Credit Card,PayPal
+63,Mobile Payment,Square
+64,Mobile Payment,MasterCard
+65,Credit Card,PayPal
+66,Credit Card,Chase
+67,Bank Transfer,MasterCard
+68,Bank Transfer,PayPal
+69,Credit Card,Square
+70,PayPal,PayPal
+71,Credit Card,PayPal
+72,Credit Card,Chase
+73,Bank Transfer,Chase
+74,Debit Card,MasterCard
+75,Mobile Payment,Visa
+76,Debit Card,Square
+77,Debit Card,Chase
+78,Mobile Payment,MasterCard
+79,PayPal,PayPal
+80,Mobile Payment,PayPal
+81,Credit Card,Amex
+82,Mobile Payment,MasterCard
+83,PayPal,MasterCard
+84,Credit Card,MasterCard
+85,Bank Transfer,Amex
+86,Mobile Payment,Square
+87,Credit Card,MasterCard
+88,Credit Card,Chase
+89,Credit Card,Visa
+90,PayPal,MasterCard
+91,PayPal,PayPal
+92,PayPal,MasterCard
+93,PayPal,Chase
+94,Debit Card,MasterCard
+95,PayPal,Visa
+96,Bank Transfer,PayPal
+97,Credit Card,Square
+98,Bank Transfer,Square
+99,Debit Card,Chase
+100,PayPal,Square
+101,Bank Transfer,Amex
+102,Mobile Payment,Visa
+103,Bank Transfer,Chase
+104,PayPal,PayPal
+105,Bank Transfer,MasterCard
+106,Bank Transfer,Chase
+107,Debit Card,Amex
+108,Credit Card,MasterCard
+109,Credit Card,Chase
+110,Debit Card,Visa
+111,Credit Card,Chase
+112,Credit Card,MasterCard
+113,Debit Card,Amex
+114,Mobile Payment,Square
+115,PayPal,Visa
+116,Debit Card,PayPal
+117,Mobile Payment,Chase
+118,Mobile Payment,PayPal
+119,Mobile Payment,Amex
+120,PayPal,PayPal
+121,Mobile Payment,PayPal
+122,PayPal,Amex
+123,PayPal,Square
+124,Debit Card,PayPal
+125,Bank Transfer,PayPal
+126,PayPal,MasterCard
+127,Credit Card,Visa
+128,Mobile Payment,PayPal
+129,Debit Card,Visa
+130,PayPal,Amex
+131,Mobile Payment,MasterCard
+132,Debit Card,Amex
+133,Mobile Payment,MasterCard
+134,Bank Transfer,Visa
+135,Credit Card,Visa
+136,Mobile Payment,Visa
+137,PayPal,Square
+138,Mobile Payment,PayPal
+139,Mobile Payment,Square
+140,Credit Card,PayPal
+141,Debit Card,Amex
+142,Mobile Payment,Square
+143,Bank Transfer,MasterCard
+144,Credit Card,Square
+145,Mobile Payment,Amex
+146,Debit Card,MasterCard
+147,Debit Card,Chase
+148,PayPal,Visa
+149,Mobile Payment,Amex
+150,Debit Card,Amex
